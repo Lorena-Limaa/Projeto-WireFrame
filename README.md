@@ -1,6 +1,6 @@
 # WireFrame
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Lorena-Limaa/Projeto-WireFrame/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Lorena-Limaa/Projeto-WireFrame/blob/master/LICENSE)
 
 # Sobre o projeto
 
